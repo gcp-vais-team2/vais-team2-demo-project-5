@@ -1,3 +1,3 @@
-# vais-team2-demo-project-5
+# Demo Project 5
 
-This is a sample Python project with Docker and CI/CD.
+This is demo project number 5, built with CI/CD, Docker, and Python integration.
